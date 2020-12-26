@@ -29,7 +29,7 @@
                             (____, Scope<Void> @:2890 op:478,dt:4,nt:8,next:2920,str:35534,d0:2891,d1:61118;
                                 ("player_action_test_reset", Expression<MethodOrOperator> @:2891 op:478,dt:2,nt:9,next:65535,str:6498,d0:0,d1:0;
                             (False, Expression<Boolean> @:2920 op:5,dt:5,nt:9,next:65535,str:35821,d0:65280,d1:65535;)
-                    (2, Expression<Short> @:2888 op:7,dt:7,nt:9,next:65535,str:35521,d0:2,d1:65535;
+                    (6, Expression<Short> @:2888 op:7,dt:7,nt:9,next:65535,str:35521,d0:6,d1:65535;
                                     
                                     
                             
