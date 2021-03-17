@@ -1,0 +1,51 @@
+[{
+    "TagName": "scenarios\\solo\\04b_floodlab\\04b_floodlab.scnr",
+    "PropertyPatches": [
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].PrimaryWeapon",
+            "Value": "objects\\weapons\\melee\\energy_blade\\energy_blade.weap"
+        },
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].PrimaryWeaponLoadedAmmo",
+            "Value": 100
+        },
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].PrimaryWeaponTotalAmmo",
+            "Value": 100
+        },
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].SecondaryWeapon",
+            "Value": "objects\\weapons\\support_high\\flak_cannon\\flak_cannon.weap"
+        },
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].SecondaryWeaponLoadedAmmo",
+            "Value": 5
+        },
+        {
+            "PropertySelector": "StartingProfileDefinitions[0].SecondaryWeaponTotalAmmo",
+            "Value": 25
+        },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[0].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[1].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[2].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[3].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[4].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[5].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[6].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[9].StartingLocations[7].Zero5Sometimes",  "Value": 10 },
+		
+		{ "PropertySelector": "AiSquadDefinitions[10].StartingLocations[0].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[10].StartingLocations[1].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[10].StartingLocations[2].Zero5Sometimes",  "Value": 10 },
+		{ "PropertySelector": "AiSquadDefinitions[10].StartingLocations[3].Zero5Sometimes",  "Value": 10 }
+    ]
+},
+{
+    "TagName": "objects\\weapons\\melee\\energy_blade\\energy_blade.weap",
+    "PropertyPatches": [
+        {
+            "PropertySelector": "Flags",
+            "Value": 16779264 
+        }
+    ]
+}]
